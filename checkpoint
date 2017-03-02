@@ -1,0 +1,2 @@
+model_checkpoint_path: "tscnn"
+all_model_checkpoint_paths: "tscnn"
